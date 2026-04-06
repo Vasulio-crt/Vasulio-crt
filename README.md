@@ -1,4 +1,5 @@
-## Hi there 👋
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Vasulio-crt&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vasulio-crt&layout=compact&theme=radical)
 
 <!--
 **Vasulio-crt/Vasulio-crt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
