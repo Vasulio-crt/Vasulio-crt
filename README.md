@@ -11,7 +11,7 @@ Mda...
   />
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Vasulio-crt&show_icons=true" />
 </picture>
-
+<br>
 <picture align="center">
   <source
     srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vasulio-crt&layout=compact&theme=dark"
