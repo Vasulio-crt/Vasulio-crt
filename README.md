@@ -1,9 +1,9 @@
 <h1 align="center">My skills</h1>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=golang,js,python,bash,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=golang,js,,html,css,python,bash,php" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,postgres,docker,mongo,nodejs" />
+  <img src="https://skillicons.dev/icons?i=git,postgres,docker,mongo,nodejs,vue" />
 </div>
 
 
